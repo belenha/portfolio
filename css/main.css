@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header{
+    background-image: url(../assets/images/prueba.jpg);
+    background-size: cover;
+    height: 400px;
+} 
+
+h1, h4{
+    font-family: 'Poiret One', cursive;
+    margin: 0;
+    position: relative;
+    top: 150px;
+} 
+
+.name{
+    font-family: 'Fredericka the Great', cursive;
+}
+*/
+
+p{
+    font-family: 'Poiret One', cursive;
+}
+
+h3{
+    font-family: 'Sacramento', cursive;
+}
+
+.info{
+    font-size: 18px;
+    text-align: justify;
+}
+
+
