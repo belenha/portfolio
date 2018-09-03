@@ -23,6 +23,7 @@ h1, h4{
 
 p{
     font-family: 'Poiret One', cursive;
+    font-weight: bold;
 }
 
 h3{
@@ -34,4 +35,6 @@ h3{
     text-align: justify;
 }
 
-
+#contact{
+    margin: 10px;
+}
